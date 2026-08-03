@@ -3,7 +3,12 @@
 An interactive research platform investigating why migration-intensive districts in Nepal fail to convert remittance wealth into agricultural productivity gains — a cross-sectional study of all 75 districts.
 
 Live site: https://nepal-remittance-paradox.vercel.app
+## Related Publication
 
+📄 **[Remittance Dependency and Agricultural Stagnation in Nepal: A Cross-Sectional Analysis of 75 Districts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7028898)**
+*Prasanna Thapa, SSRN Working Paper (2026)*
+
+This repository's methodology (RDI/RVI indices via PCA, spatial econometrics) underpins the empirical analysis in this paper, which finds that geographic terrain — not remittance-driven labor migration — is the dominant driver of agricultural yield variation across Nepal's 75 districts.
 ---
 
 ## The Core Finding
