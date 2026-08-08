@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code or methodology, please cite the paper below."
+title: "Remittance Dependency and Agricultural Stagnation in Nepal: A Cross-Sectional Analysis of 75 Districts"
+authors:
+  - family-names: "Thapa"
+    given-names: "Prasanna"
+    orcid: "https://orcid.org/0009-0003-6581-6203"
+    affiliation: "Independent Researcher"
+date-released: 2026-06-23
+url: "https://github.com/Prasanna-Thapa1/nepal-remittance-paradox"
+repository-code: "https://github.com/Prasanna-Thapa1/nepal-remittance-paradox"
+abstract: >
+  Nepal receives remittances equivalent to over 25% of GDP, yet agricultural
+  productivity has stagnated across much of the country. This study examines
+  whether migration-intensive districts are associated with below-average
+  agricultural yields, using district-level cross-sectional data linking CBS
+  Nepal 2021 Census migration indicators with MoALD 2022/23 cereal yield data
+  across all 75 districts.
+keywords:
+  - remittances
+  - agricultural economics
+  - Nepal
+  - spatial econometrics
+  - development economics
+license: MIT
+preferred-citation:
+  type: article
+  title: "Remittance Dependency and Agricultural Stagnation in Nepal: A Cross-Sectional Analysis of 75 Districts"
+  authors:
+    - family-names: "Thapa"
+      given-names: "Prasanna"
+      orcid: "https://orcid.org/0009-0003-6581-6203"
+  date-published: 2026-07-21
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7028898"
+  doi: "10.2139/ssrn.7028898"
+  journal: "SSRN Working Paper Series"
