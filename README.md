@@ -1,5 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21850514.svg)](https://doi.org/10.5281/zenodo.21850514)
 # Nepal Remittance Paradox
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21850514.svg)](https://doi.org/10.5281/zenodo.21850514)
+ 
 An interactive research platform investigating why migration-intensive districts in Nepal fail to convert remittance wealth into agricultural productivity gains — a cross-sectional study of all 75 districts.
 
 Live site: https://nepal-remittance-paradox.vercel.app
